@@ -1,2 +1,7 @@
 # whitemouse
-Android bluetooth chat with encryption features.
+Android bluetooth chat.
+
+- scan devices
+- add encryption
+- add groups
+
