@@ -1,0 +1,17 @@
+
+https://github.com/googlesamples
+https://developer.android.com/samples/BluetoothChat/index.html
+http://www.theappguruz.com/blog/to-allow-two-way-text-chat-over-bluetooth-in-android
+http://android-er.blogspot.bg/2015/06/import-android-code-sample-of.html
+https://github.com/googlesamples
+https://developer.android.com/samples/BluetoothChat/index.html
+http://www.theappguruz.com/blog/to-allow-two-way-text-chat-over-bluetooth-in-android
+http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android-apps/4.2_r1/com/example/android/BluetoothChat/BluetoothChat.java
+http://www.tutorialspoint.com/android/android_bluetooth.htm
+http://www.slideshare.net/PanchhiSahu/presentation1-47146996
+http://code.tutsplus.com/tutorials/create-a-bluetooth-scanner-with-androids-bluetooth-api--cms-24084
+http://www.androidhive.info/2014/10/android-building-group-chat-app-using-sockets-part-1/
+https://github.com/codepath/android_guides/wiki/Building-Simple-Chat-Client-with-Parse
+http://www.uandblog.com/How-to-Create-Chat-Application-in-Android-Studio
+http://www.tutorialsface.com/2015/08/building-your-own-android-chat-messenger-app-similar-to-whatsapp-using-xmpp-smack-4-1-api-from-scratch-part-2/
+http://stevendebock.blogspot.bg/2015/12/android-bluetooth-chat-sample-analyzed.html
